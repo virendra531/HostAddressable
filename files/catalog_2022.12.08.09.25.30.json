@@ -1,1 +1,231 @@
-{"m_LocatorId":"AddressablesMainContentCatalog","m_InstanceProviderData":{"m_Id":"UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider","m_ObjectType":{"m_AssemblyName":"Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider"},"m_Data":""},"m_SceneProviderData":{"m_Id":"UnityEngine.ResourceManagement.ResourceProviders.SceneProvider","m_ObjectType":{"m_AssemblyName":"Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.ResourceManagement.ResourceProviders.SceneProvider"},"m_Data":""},"m_ResourceProviderData":[{"m_Id":"UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider","m_ObjectType":{"m_AssemblyName":"Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider"},"m_Data":""},{"m_Id":"UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider","m_ObjectType":{"m_AssemblyName":"Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider"},"m_Data":""},{"m_Id":"UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider","m_ObjectType":{"m_AssemblyName":"Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"},"m_Data":""},{"m_Id":"UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider","m_ObjectType":{"m_AssemblyName":"Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider"},"m_Data":""},{"m_Id":"UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider","m_ObjectType":{"m_AssemblyName":"Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"},"m_Data":""}],"m_ProviderIds":["","UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider","UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider","UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider"],"m_InternalIds":["Application/Scenes/COA Amphitheatre","Application/Scenes/COA Lounge","Application/Scenes/COA Plaza","Application/Scenes/COA Q1","Application/Scenes/COA Round Table","Application/Scenes/LoadingScreen/Loadingscene","Assets/Application/Prefabs/Plaza/TeleporterConferenceCenter.prefab","Assets/Application/Prefabs/Plaza/TeleporterUSECASEVariant.prefab","BakerBoy","Blit","DebugUICanvas","DebugUIPersistentCanvas","Fonts & Materials/LiberationSans SDF","Fonts & Materials/LiberationSans SDF - Drop Shadow","Fonts & Materials/LiberationSans SDF - Fallback","Fonts & Materials/LiberationSans SDF - Outline","https://raw.githubusercontent.com/virendra531/HostAddressable/master/files/defaultlocalgroup_assets_all_14615c64787d4f849788d2809ac44046.bundle","LineBreaking Following Characters","LineBreaking Leading Characters","Shaders/BakerBoy","Sprite Assets/EmojiOne","Style Sheets/Default Style Sheet","TMP Settings"],"m_KeyDataString":"MwAAAAAQAAAAQ09BIEFtcGhpdGhlYXRyZQAgAAAAYWM3NmMxOGNlNTFjMDQyNTRhY2Q2MzY0ZjBjMTQ2NWMEAgAAAAAKAAAAQ09BIExvdW5nZQAgAAAAM2EyNDBhMTE3NzE0MDRmMWM5NDAwYjRlNzRjZGNlOTcEAwAAAAAJAAAAQ09BIFBsYXphACAAAAA0NTMzY2NhNzAyMzM4NDZlYmE0NmEyMTk5ZmM2YzNmMwQBAAAAAAYAAABDT0EgUTEAIAAAAGZlZTI5MDgwZTk3NTc0NjhlYjA1ZjE4ZWQ5YWIxYTAzBAUAAAAADwAAAENPQSBSb3VuZCBUYWJsZQAgAAAAZjUwZjA1NDc1MmU1ZDQ1MDU4OTIyZDIxNTM0MWRiZmIEBAAAAAAMAAAATG9hZGluZ3NjZW5lACAAAABjYjc2ZjkzZWQ5OTBjNDA0OWEzNzI0YzgzOTg3ZTE3YwQAAAAAAEYAAABBc3NldHMvQXBwbGljYXRpb24vUHJlZmFicy9QbGF6YS9UZWxlcG9ydGVyIC0gQ29uZmVyZW5jZSBDZW50ZXIucHJlZmFiACAAAAA4YjI4MzQ5OGYyMjc4NDNlZWFkNWVkMWEwMGUxMTMzMwBFAAAAQXNzZXRzL0FwcGxpY2F0aW9uL1ByZWZhYnMvUGxhemEvVGVsZXBvcnRlciAtIFVTRSBDQVNFIFZhcmlhbnQucHJlZmFiACAAAAA4ZmViNDRmZjYxNTRiNGJiZWI3ZTRiM2RmNTNkNzI1YgAIAAAAQmFrZXJCb3kAIAAAAGU0Y2FiZmFmMDgxZTE5ODRhYjZiZGE3NmE0NmZjYjRhAAQAAABCbGl0ACAAAAAxNTM5NGFiOWM1ZDE3OTY0Y2IzYTgwNGM5ZWQzYmM2OQANAAAARGVidWdVSUNhbnZhcwAgAAAAY2Y2Y2JkZDY3MjA4OWE4NDc5NmU1NWEyMWZlZDFjYmUAFwAAAERlYnVnVUlQZXJzaXN0ZW50Q2FudmFzACAAAABmNmIxYTBmZTc1ZDUwMDk0NDljZjU1YWU3NjIyMGUyYgAkAAAARm9udHMgJiBNYXRlcmlhbHMvTGliZXJhdGlvblNhbnMgU0RGACAAAAA4ZjU4NjM3OGI0ZTE0NGE5ODUxZTdiMzRkOWI3NDhlZQAyAAAARm9udHMgJiBNYXRlcmlhbHMvTGliZXJhdGlvblNhbnMgU0RGIC0gRHJvcCBTaGFkb3cAIAAAAGU3M2E1OGY2ZTI3OTRhZTdiMWI3ZTUwYjdmYjgxMWIwAC8AAABGb250cyAmIE1hdGVyaWFscy9MaWJlcmF0aW9uU2FucyBTREYgLSBGYWxsYmFjawAgAAAAMmU0OThkMWM4MDk0OTEwNDc5ZGMzZTFiNzY4MzA2YTQALgAAAEZvbnRzICYgTWF0ZXJpYWxzL0xpYmVyYXRpb25TYW5zIFNERiAtIE91dGxpbmUAIAAAADc5NDU5ZWZlYzE3YTRkMDBhMzIxYmRjYzI3YmJjMzg1AEQAAABkZWZhdWx0bG9jYWxncm91cF9hc3NldHNfYWxsXzE0NjE1YzY0Nzg3ZDRmODQ5Nzg4ZDI4MDlhYzQ0MDQ2LmJ1bmRsZQAhAAAATGluZUJyZWFraW5nIEZvbGxvd2luZyBDaGFyYWN0ZXJzACAAAABmYWRlNDJlOGJjNzE0YjAxOGZhYzUxM2MwNDNkMzIzYgAfAAAATGluZUJyZWFraW5nIExlYWRpbmcgQ2hhcmFjdGVycwAgAAAAZDgyYzFiMzFjN2U3NDIzOWJmZjEyMjA1ODU3MDdkMmIAEAAAAFNoYWRlcnMvQmFrZXJCb3kAIAAAADJlZDEyZDZjY2E3MDE1ODQxYmRmNjg5YTM4ZWUwMzUzABYAAABTcHJpdGUgQXNzZXRzL0Vtb2ppT25lACAAAABjNDEwMDVjMTI5YmE0ZDY2OTExYjc1MjI5ZmQ3MGI0NQAgAAAAU3R5bGUgU2hlZXRzL0RlZmF1bHQgU3R5bGUgU2hlZXQAIAAAAGY5NTJjMDgyY2IwMzQ1MWRhZWQzZWU5NjhhYzZjNjNlAAwAAABUTVAgU2V0dGluZ3MAIAAAADNmNWI1ZGZmNjdhOTQyMjg5YTlkZWZhNDE2YjIwNmYz","m_BucketDataString":"MwAAAAQAAAABAAAAAAAAABkAAAABAAAAAAAAAD4AAAABAAAAAAAAAEMAAAABAAAAAQAAAFIAAAABAAAAAQAAAHcAAAABAAAAAQAAAHwAAAABAAAAAgAAAIoAAAABAAAAAgAAAK8AAAABAAAAAgAAALQAAAABAAAAAwAAAL8AAAABAAAAAwAAAOQAAAABAAAAAwAAAOkAAAABAAAABAAAAP0AAAABAAAABAAAACIBAAABAAAABAAAACcBAAABAAAABQAAADgBAAABAAAABQAAAF0BAAABAAAABQAAAGIBAAABAAAABgAAAK0BAAABAAAABgAAANIBAAABAAAABwAAABwCAAABAAAABwAAAEECAAABAAAACAAAAE4CAAABAAAACAAAAHMCAAABAAAACQAAAHwCAAABAAAACQAAAKECAAACAAAACgAAAAsAAACzAgAAAgAAAAoAAAALAAAA2AIAAAQAAAAMAAAADQAAAA4AAAAPAAAA9AIAAAQAAAAMAAAADQAAAA4AAAAPAAAAGQMAABAAAAAQAAAAEQAAABIAAAATAAAAFAAAABUAAAAWAAAAFwAAABgAAAAZAAAAGgAAABsAAAAcAAAAHQAAAB4AAAAfAAAAQgMAABAAAAAQAAAAEQAAABIAAAATAAAAFAAAABUAAAAWAAAAFwAAABgAAAAZAAAAGgAAABsAAAAcAAAAHQAAAB4AAAAfAAAAZwMAAAEAAAAgAAAAngMAAAEAAAAgAAAAwwMAAAoAAAAhAAAAIgAAACMAAAAkAAAAJQAAACYAAAAnAAAAKAAAACkAAAAqAAAA9wMAAAoAAAAhAAAAIgAAACMAAAAkAAAAJQAAACYAAAAnAAAAKAAAACkAAAAqAAAAHAQAAAEAAAArAAAATwQAAAEAAAArAAAAdAQAAAEAAAAsAAAAvQQAAAEAAAAtAAAA4wQAAAEAAAAtAAAACAUAAAEAAAAuAAAALAUAAAEAAAAuAAAAUQUAAAEAAAAvAAAAZgUAAAEAAAAvAAAAiwUAAAgAAAAwAAAAMQAAADIAAAAzAAAANAAAADUAAAA2AAAANwAAAKYFAAAIAAAAMAAAADEAAAAyAAAAMwAAADQAAAA1AAAANgAAADcAAADLBQAAAgAAADgAAAA5AAAA8AUAAAIAAAA4AAAAOQAAABUGAAABAAAAOgAAACYGAAABAAAAOgAAAA==","m_EntryDataString":"OwAAAAAAAAAAAAAA/////wAAAAD/////AAAAAAAAAAABAAAAAAAAAP////8AAAAA/////wMAAAAAAAAAAgAAAAAAAAD/////AAAAAP////8GAAAAAAAAAAMAAAAAAAAA/////wAAAAD/////CQAAAAAAAAAEAAAAAAAAAP////8AAAAA/////wwAAAAAAAAABQAAAAAAAAD/////AAAAAP////8PAAAAAAAAAAYAAAABAAAAJgAAAO+KAQ//////EgAAAAEAAAAHAAAAAQAAACYAAADvigEP/////xQAAAABAAAACAAAAAIAAAD/////AAAAAP////8WAAAAAgAAAAkAAAACAAAA/////wAAAAD/////GAAAAAMAAAAKAAAAAgAAAP////8AAAAA/////xoAAAABAAAACgAAAAIAAAD/////AAAAAP////8aAAAABAAAAAsAAAACAAAA/////wAAAAD/////HAAAAAEAAAALAAAAAgAAAP////8AAAAA/////xwAAAAFAAAACwAAAAIAAAD/////AAAAAP////8cAAAABgAAAAsAAAACAAAA/////wAAAAD/////HAAAAAcAAAAMAAAAAgAAAP////8AAAAA/////x4AAAAIAAAADAAAAAIAAAD/////AAAAAP////8eAAAACQAAAAwAAAACAAAA/////wAAAAD/////HgAAAAoAAAAMAAAAAgAAAP////8AAAAA/////x4AAAALAAAADAAAAAIAAAD/////AAAAAP////8eAAAADAAAAAwAAAACAAAA/////wAAAAD/////HgAAAA0AAAAMAAAAAgAAAP////8AAAAA/////x4AAAAOAAAADAAAAAIAAAD/////AAAAAP////8eAAAADwAAAAwAAAACAAAA/////wAAAAD/////HgAAABAAAAAMAAAAAgAAAP////8AAAAA/////x4AAAARAAAADAAAAAIAAAD/////AAAAAP////8eAAAAEgAAAAwAAAACAAAA/////wAAAAD/////HgAAABMAAAAMAAAAAgAAAP////8AAAAA/////x4AAAAUAAAADAAAAAIAAAD/////AAAAAP////8eAAAAFQAAAAwAAAACAAAA/////wAAAAD/////HgAAABYAAAAMAAAAAgAAAP////8AAAAA/////x4AAAAXAAAADQAAAAIAAAD/////AAAAAP////8gAAAAFgAAAA4AAAACAAAA/////wAAAAD/////IgAAAAgAAAAOAAAAAgAAAP////8AAAAA/////yIAAAALAAAADgAAAAIAAAD/////AAAAAP////8iAAAADQAAAA4AAAACAAAA/////wAAAAD/////IgAAAA4AAAAOAAAAAgAAAP////8AAAAA/////yIAAAAPAAAADgAAAAIAAAD/////AAAAAP////8iAAAAEwAAAA4AAAACAAAA/////wAAAAD/////IgAAABQAAAAOAAAAAgAAAP////8AAAAA/////yIAAAAVAAAADgAAAAIAAAD/////AAAAAP////8iAAAAFgAAAA4AAAACAAAA/////wAAAAD/////IgAAABcAAAAPAAAAAgAAAP////8AAAAA/////yQAAAAWAAAAEAAAAAMAAAD/////AAAAAAAAAAAmAAAAGAAAABEAAAACAAAA/////wAAAAD/////JwAAABkAAAASAAAAAgAAAP////8AAAAA/////ykAAAAZAAAAEwAAAAIAAAD/////AAAAAP////8rAAAAAwAAABQAAAACAAAA/////wAAAAD/////LQAAAAgAAAAUAAAAAgAAAP////8AAAAA/////y0AAAAaAAAAFAAAAAIAAAD/////AAAAAP////8tAAAAGwAAABQAAAACAAAA/////wAAAAD/////LQAAAAoAAAAUAAAAAgAAAP////8AAAAA/////y0AAAALAAAAFAAAAAIAAAD/////AAAAAP////8tAAAAHAAAABQAAAACAAAA/////wAAAAD/////LQAAAB0AAAAUAAAAAgAAAP////8AAAAA/////y0AAAAWAAAAFQAAAAIAAAD/////AAAAAP////8vAAAAHgAAABUAAAACAAAA/////wAAAAD/////LwAAAB8AAAAWAAAAAgAAAP////8AAAAA/////zEAAAAgAAAA","m_ExtraDataString":"B0xVbml0eS5SZXNvdXJjZU1hbmFnZXIsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsSlVuaXR5RW5naW5lLlJlc291cmNlTWFuYWdlbWVudC5SZXNvdXJjZVByb3ZpZGVycy5Bc3NldEJ1bmRsZVJlcXVlc3RPcHRpb25zsAIAAHsAIgBtAF8ASABhAHMAaAAiADoAIgAxADQANgAxADUAYwA2ADQANwA4ADcAZAA0AGYAOAA0ADkANwA4ADgAZAAyADgAMAA5AGEAYwA0ADQAMAA0ADYAIgAsACIAbQBfAEMAcgBjACIAOgAxADkANwA2ADMAMwAzADMANQA3ACwAIgBtAF8AVABpAG0AZQBvAHUAdAAiADoAMAAsACIAbQBfAEMAaAB1AG4AawBlAGQAVAByAGEAbgBzAGYAZQByACIAOgBmAGEAbABzAGUALAAiAG0AXwBSAGUAZABpAHIAZQBjAHQATABpAG0AaQB0ACIAOgAtADEALAAiAG0AXwBSAGUAdAByAHkAQwBvAHUAbgB0ACIAOgAwACwAIgBtAF8AQgB1AG4AZABsAGUATgBhAG0AZQAiADoAIgBlADgAZgBlADQAZQA2AGEANgBiADUAOQAzADUAZAA0AGEAOAAxADIANgAxADgAZQA5ADAAMQA2ADgAOABiAGQAIgAsACIAbQBfAEEAcwBzAGUAdABMAG8AYQBkAE0AbwBkAGUAIgA6ADAALAAiAG0AXwBCAHUAbgBkAGwAZQBTAGkAegBlACIAOgAxADUAMAA1ADUAMgA1ACwAIgBtAF8AVQBzAGUAQwByAGMARgBvAHIAQwBhAGMAaABlAGQAQgB1AG4AZABsAGUAcwAiADoAdAByAHUAZQAsACIAbQBfAFUAcwBlAFUAVwBSAEYAbwByAEwAbwBjAGEAbABCAHUAbgBkAGwAZQBzACIAOgBmAGEAbABzAGUALAAiAG0AXwBDAGwAZQBhAHIATwB0AGgAZQByAEMAYQBjAGgAZQBkAFYAZQByAHMAaQBvAG4AcwBXAGgAZQBuAEwAbwBhAGQAZQBkACIAOgBmAGEAbABzAGUAfQA=","m_resourceTypes":[{"m_AssemblyName":"Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"},{"m_AssemblyName":"UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.GameObject"},{"m_AssemblyName":"UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.ComputeShader"},{"m_AssemblyName":"UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.Shader"},{"m_AssemblyName":"Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.Rendering.UI.DebugUIPrefabBundle"},{"m_AssemblyName":"UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.RectOffset"},{"m_AssemblyName":"UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.UI.MaskableGraphic+CullStateChangedEvent"},{"m_AssemblyName":"UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.Events.PersistentCallGroup"},{"m_AssemblyName":"UnityEngine.TextCoreFontEngineModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.TextCore.FaceInfo"},{"m_AssemblyName":"UnityEngine.TextCoreFontEngineModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.TextCore.Glyph"},{"m_AssemblyName":"UnityEngine.TextCoreFontEngineModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.TextCore.GlyphMetrics"},{"m_AssemblyName":"UnityEngine.TextCoreFontEngineModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.TextCore.GlyphRect"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.TMP_Character"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.FaceInfo_Legacy"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.KerningTable"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.TMP_FontFeatureTable"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.TMP_GlyphPairAdjustmentRecord"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.TMP_GlyphAdjustmentRecord"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.TMP_GlyphValueRecord"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.FontAssetCreationSettings"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.TMP_FontWeightPair"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.TMP_FontAsset"},{"m_AssemblyName":"UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.Material"},{"m_AssemblyName":"UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.Texture2D"},{"m_AssemblyName":"Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"},{"m_AssemblyName":"UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"UnityEngine.TextAsset"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.TMP_SpriteCharacter"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.TMP_SpriteGlyph"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.TMP_Sprite"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.TMP_SpriteAsset"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.TMP_Style"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.TMP_StyleSheet"},{"m_AssemblyName":"Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","m_ClassName":"TMPro.TMP_Settings"}],"m_InternalIdPrefixes":[]}
+{
+	"m_LocatorId": "AddressablesMainContentCatalog",
+	"m_InstanceProviderData": {
+		"m_Id": "UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider",
+		"m_ObjectType": {
+			"m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider"
+		},
+		"m_Data": ""
+	},
+	"m_SceneProviderData": {
+		"m_Id": "UnityEngine.ResourceManagement.ResourceProviders.SceneProvider",
+		"m_ObjectType": {
+			"m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.SceneProvider"
+		},
+		"m_Data": ""
+	},
+	"m_ResourceProviderData": [
+		{
+			"m_Id": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+			"m_ObjectType": {
+				"m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+				"m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider"
+			},
+			"m_Data": ""
+		},
+		{
+			"m_Id": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+			"m_ObjectType": {
+				"m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+				"m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider"
+			},
+			"m_Data": ""
+		},
+		{
+			"m_Id": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+			"m_ObjectType": {
+				"m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+				"m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+			},
+			"m_Data": ""
+		},
+		{
+			"m_Id": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+			"m_ObjectType": {
+				"m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+				"m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider"
+			},
+			"m_Data": ""
+		},
+		{
+			"m_Id": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+			"m_ObjectType": {
+				"m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+				"m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider"
+			},
+			"m_Data": ""
+		}
+	],
+	"m_ProviderIds": [
+		"",
+		"UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+		"UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+		"UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider"
+	],
+	"m_InternalIds": [
+		"Application/Scenes/COA Amphitheatre",
+		"Application/Scenes/COA Lounge",
+		"Application/Scenes/COA Plaza",
+		"Application/Scenes/COA Q1",
+		"Application/Scenes/COA Round Table",
+		"Application/Scenes/LoadingScreen/Loadingscene",
+		"Assets/Application/Prefabs/Plaza/TeleporterConferenceCenter.prefab",
+		"Assets/Application/Prefabs/Plaza/TeleporterUSECASEVariant.prefab",
+		"BakerBoy",
+		"Blit",
+		"DebugUICanvas",
+		"DebugUIPersistentCanvas",
+		"Fonts & Materials/LiberationSans SDF",
+		"Fonts & Materials/LiberationSans SDF - Drop Shadow",
+		"Fonts & Materials/LiberationSans SDF - Fallback",
+		"Fonts & Materials/LiberationSans SDF - Outline",
+		"https://github.com/virendra531/HostAddressable/blob/master/files/defaultlocalgroup_assets_all_14615c64787d4f849788d2809ac44046.bundle",
+		"LineBreaking Following Characters",
+		"LineBreaking Leading Characters",
+		"Shaders/BakerBoy",
+		"Sprite Assets/EmojiOne",
+		"Style Sheets/Default Style Sheet",
+		"TMP Settings"
+	],
+	"m_KeyDataString": "MwAAAAAQAAAAQ09BIEFtcGhpdGhlYXRyZQAgAAAAYWM3NmMxOGNlNTFjMDQyNTRhY2Q2MzY0ZjBjMTQ2NWMEAgAAAAAKAAAAQ09BIExvdW5nZQAgAAAAM2EyNDBhMTE3NzE0MDRmMWM5NDAwYjRlNzRjZGNlOTcEAwAAAAAJAAAAQ09BIFBsYXphACAAAAA0NTMzY2NhNzAyMzM4NDZlYmE0NmEyMTk5ZmM2YzNmMwQBAAAAAAYAAABDT0EgUTEAIAAAAGZlZTI5MDgwZTk3NTc0NjhlYjA1ZjE4ZWQ5YWIxYTAzBAUAAAAADwAAAENPQSBSb3VuZCBUYWJsZQAgAAAAZjUwZjA1NDc1MmU1ZDQ1MDU4OTIyZDIxNTM0MWRiZmIEBAAAAAAMAAAATG9hZGluZ3NjZW5lACAAAABjYjc2ZjkzZWQ5OTBjNDA0OWEzNzI0YzgzOTg3ZTE3YwQAAAAAAEYAAABBc3NldHMvQXBwbGljYXRpb24vUHJlZmFicy9QbGF6YS9UZWxlcG9ydGVyIC0gQ29uZmVyZW5jZSBDZW50ZXIucHJlZmFiACAAAAA4YjI4MzQ5OGYyMjc4NDNlZWFkNWVkMWEwMGUxMTMzMwBFAAAAQXNzZXRzL0FwcGxpY2F0aW9uL1ByZWZhYnMvUGxhemEvVGVsZXBvcnRlciAtIFVTRSBDQVNFIFZhcmlhbnQucHJlZmFiACAAAAA4ZmViNDRmZjYxNTRiNGJiZWI3ZTRiM2RmNTNkNzI1YgAIAAAAQmFrZXJCb3kAIAAAAGU0Y2FiZmFmMDgxZTE5ODRhYjZiZGE3NmE0NmZjYjRhAAQAAABCbGl0ACAAAAAxNTM5NGFiOWM1ZDE3OTY0Y2IzYTgwNGM5ZWQzYmM2OQANAAAARGVidWdVSUNhbnZhcwAgAAAAY2Y2Y2JkZDY3MjA4OWE4NDc5NmU1NWEyMWZlZDFjYmUAFwAAAERlYnVnVUlQZXJzaXN0ZW50Q2FudmFzACAAAABmNmIxYTBmZTc1ZDUwMDk0NDljZjU1YWU3NjIyMGUyYgAkAAAARm9udHMgJiBNYXRlcmlhbHMvTGliZXJhdGlvblNhbnMgU0RGACAAAAA4ZjU4NjM3OGI0ZTE0NGE5ODUxZTdiMzRkOWI3NDhlZQAyAAAARm9udHMgJiBNYXRlcmlhbHMvTGliZXJhdGlvblNhbnMgU0RGIC0gRHJvcCBTaGFkb3cAIAAAAGU3M2E1OGY2ZTI3OTRhZTdiMWI3ZTUwYjdmYjgxMWIwAC8AAABGb250cyAmIE1hdGVyaWFscy9MaWJlcmF0aW9uU2FucyBTREYgLSBGYWxsYmFjawAgAAAAMmU0OThkMWM4MDk0OTEwNDc5ZGMzZTFiNzY4MzA2YTQALgAAAEZvbnRzICYgTWF0ZXJpYWxzL0xpYmVyYXRpb25TYW5zIFNERiAtIE91dGxpbmUAIAAAADc5NDU5ZWZlYzE3YTRkMDBhMzIxYmRjYzI3YmJjMzg1AEQAAABkZWZhdWx0bG9jYWxncm91cF9hc3NldHNfYWxsXzE0NjE1YzY0Nzg3ZDRmODQ5Nzg4ZDI4MDlhYzQ0MDQ2LmJ1bmRsZQAhAAAATGluZUJyZWFraW5nIEZvbGxvd2luZyBDaGFyYWN0ZXJzACAAAABmYWRlNDJlOGJjNzE0YjAxOGZhYzUxM2MwNDNkMzIzYgAfAAAATGluZUJyZWFraW5nIExlYWRpbmcgQ2hhcmFjdGVycwAgAAAAZDgyYzFiMzFjN2U3NDIzOWJmZjEyMjA1ODU3MDdkMmIAEAAAAFNoYWRlcnMvQmFrZXJCb3kAIAAAADJlZDEyZDZjY2E3MDE1ODQxYmRmNjg5YTM4ZWUwMzUzABYAAABTcHJpdGUgQXNzZXRzL0Vtb2ppT25lACAAAABjNDEwMDVjMTI5YmE0ZDY2OTExYjc1MjI5ZmQ3MGI0NQAgAAAAU3R5bGUgU2hlZXRzL0RlZmF1bHQgU3R5bGUgU2hlZXQAIAAAAGY5NTJjMDgyY2IwMzQ1MWRhZWQzZWU5NjhhYzZjNjNlAAwAAABUTVAgU2V0dGluZ3MAIAAAADNmNWI1ZGZmNjdhOTQyMjg5YTlkZWZhNDE2YjIwNmYz",
+	"m_BucketDataString": "MwAAAAQAAAABAAAAAAAAABkAAAABAAAAAAAAAD4AAAABAAAAAAAAAEMAAAABAAAAAQAAAFIAAAABAAAAAQAAAHcAAAABAAAAAQAAAHwAAAABAAAAAgAAAIoAAAABAAAAAgAAAK8AAAABAAAAAgAAALQAAAABAAAAAwAAAL8AAAABAAAAAwAAAOQAAAABAAAAAwAAAOkAAAABAAAABAAAAP0AAAABAAAABAAAACIBAAABAAAABAAAACcBAAABAAAABQAAADgBAAABAAAABQAAAF0BAAABAAAABQAAAGIBAAABAAAABgAAAK0BAAABAAAABgAAANIBAAABAAAABwAAABwCAAABAAAABwAAAEECAAABAAAACAAAAE4CAAABAAAACAAAAHMCAAABAAAACQAAAHwCAAABAAAACQAAAKECAAACAAAACgAAAAsAAACzAgAAAgAAAAoAAAALAAAA2AIAAAQAAAAMAAAADQAAAA4AAAAPAAAA9AIAAAQAAAAMAAAADQAAAA4AAAAPAAAAGQMAABAAAAAQAAAAEQAAABIAAAATAAAAFAAAABUAAAAWAAAAFwAAABgAAAAZAAAAGgAAABsAAAAcAAAAHQAAAB4AAAAfAAAAQgMAABAAAAAQAAAAEQAAABIAAAATAAAAFAAAABUAAAAWAAAAFwAAABgAAAAZAAAAGgAAABsAAAAcAAAAHQAAAB4AAAAfAAAAZwMAAAEAAAAgAAAAngMAAAEAAAAgAAAAwwMAAAoAAAAhAAAAIgAAACMAAAAkAAAAJQAAACYAAAAnAAAAKAAAACkAAAAqAAAA9wMAAAoAAAAhAAAAIgAAACMAAAAkAAAAJQAAACYAAAAnAAAAKAAAACkAAAAqAAAAHAQAAAEAAAArAAAATwQAAAEAAAArAAAAdAQAAAEAAAAsAAAAvQQAAAEAAAAtAAAA4wQAAAEAAAAtAAAACAUAAAEAAAAuAAAALAUAAAEAAAAuAAAAUQUAAAEAAAAvAAAAZgUAAAEAAAAvAAAAiwUAAAgAAAAwAAAAMQAAADIAAAAzAAAANAAAADUAAAA2AAAANwAAAKYFAAAIAAAAMAAAADEAAAAyAAAAMwAAADQAAAA1AAAANgAAADcAAADLBQAAAgAAADgAAAA5AAAA8AUAAAIAAAA4AAAAOQAAABUGAAABAAAAOgAAACYGAAABAAAAOgAAAA==",
+	"m_EntryDataString": "OwAAAAAAAAAAAAAA/////wAAAAD/////AAAAAAAAAAABAAAAAAAAAP////8AAAAA/////wMAAAAAAAAAAgAAAAAAAAD/////AAAAAP////8GAAAAAAAAAAMAAAAAAAAA/////wAAAAD/////CQAAAAAAAAAEAAAAAAAAAP////8AAAAA/////wwAAAAAAAAABQAAAAAAAAD/////AAAAAP////8PAAAAAAAAAAYAAAABAAAAJgAAAO+KAQ//////EgAAAAEAAAAHAAAAAQAAACYAAADvigEP/////xQAAAABAAAACAAAAAIAAAD/////AAAAAP////8WAAAAAgAAAAkAAAACAAAA/////wAAAAD/////GAAAAAMAAAAKAAAAAgAAAP////8AAAAA/////xoAAAABAAAACgAAAAIAAAD/////AAAAAP////8aAAAABAAAAAsAAAACAAAA/////wAAAAD/////HAAAAAEAAAALAAAAAgAAAP////8AAAAA/////xwAAAAFAAAACwAAAAIAAAD/////AAAAAP////8cAAAABgAAAAsAAAACAAAA/////wAAAAD/////HAAAAAcAAAAMAAAAAgAAAP////8AAAAA/////x4AAAAIAAAADAAAAAIAAAD/////AAAAAP////8eAAAACQAAAAwAAAACAAAA/////wAAAAD/////HgAAAAoAAAAMAAAAAgAAAP////8AAAAA/////x4AAAALAAAADAAAAAIAAAD/////AAAAAP////8eAAAADAAAAAwAAAACAAAA/////wAAAAD/////HgAAAA0AAAAMAAAAAgAAAP////8AAAAA/////x4AAAAOAAAADAAAAAIAAAD/////AAAAAP////8eAAAADwAAAAwAAAACAAAA/////wAAAAD/////HgAAABAAAAAMAAAAAgAAAP////8AAAAA/////x4AAAARAAAADAAAAAIAAAD/////AAAAAP////8eAAAAEgAAAAwAAAACAAAA/////wAAAAD/////HgAAABMAAAAMAAAAAgAAAP////8AAAAA/////x4AAAAUAAAADAAAAAIAAAD/////AAAAAP////8eAAAAFQAAAAwAAAACAAAA/////wAAAAD/////HgAAABYAAAAMAAAAAgAAAP////8AAAAA/////x4AAAAXAAAADQAAAAIAAAD/////AAAAAP////8gAAAAFgAAAA4AAAACAAAA/////wAAAAD/////IgAAAAgAAAAOAAAAAgAAAP////8AAAAA/////yIAAAALAAAADgAAAAIAAAD/////AAAAAP////8iAAAADQAAAA4AAAACAAAA/////wAAAAD/////IgAAAA4AAAAOAAAAAgAAAP////8AAAAA/////yIAAAAPAAAADgAAAAIAAAD/////AAAAAP////8iAAAAEwAAAA4AAAACAAAA/////wAAAAD/////IgAAABQAAAAOAAAAAgAAAP////8AAAAA/////yIAAAAVAAAADgAAAAIAAAD/////AAAAAP////8iAAAAFgAAAA4AAAACAAAA/////wAAAAD/////IgAAABcAAAAPAAAAAgAAAP////8AAAAA/////yQAAAAWAAAAEAAAAAMAAAD/////AAAAAAAAAAAmAAAAGAAAABEAAAACAAAA/////wAAAAD/////JwAAABkAAAASAAAAAgAAAP////8AAAAA/////ykAAAAZAAAAEwAAAAIAAAD/////AAAAAP////8rAAAAAwAAABQAAAACAAAA/////wAAAAD/////LQAAAAgAAAAUAAAAAgAAAP////8AAAAA/////y0AAAAaAAAAFAAAAAIAAAD/////AAAAAP////8tAAAAGwAAABQAAAACAAAA/////wAAAAD/////LQAAAAoAAAAUAAAAAgAAAP////8AAAAA/////y0AAAALAAAAFAAAAAIAAAD/////AAAAAP////8tAAAAHAAAABQAAAACAAAA/////wAAAAD/////LQAAAB0AAAAUAAAAAgAAAP////8AAAAA/////y0AAAAWAAAAFQAAAAIAAAD/////AAAAAP////8vAAAAHgAAABUAAAACAAAA/////wAAAAD/////LwAAAB8AAAAWAAAAAgAAAP////8AAAAA/////zEAAAAgAAAA",
+	"m_ExtraDataString": "B0xVbml0eS5SZXNvdXJjZU1hbmFnZXIsIFZlcnNpb249MC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsSlVuaXR5RW5naW5lLlJlc291cmNlTWFuYWdlbWVudC5SZXNvdXJjZVByb3ZpZGVycy5Bc3NldEJ1bmRsZVJlcXVlc3RPcHRpb25zsAIAAHsAIgBtAF8ASABhAHMAaAAiADoAIgAxADQANgAxADUAYwA2ADQANwA4ADcAZAA0AGYAOAA0ADkANwA4ADgAZAAyADgAMAA5AGEAYwA0ADQAMAA0ADYAIgAsACIAbQBfAEMAcgBjACIAOgAxADkANwA2ADMAMwAzADMANQA3ACwAIgBtAF8AVABpAG0AZQBvAHUAdAAiADoAMAAsACIAbQBfAEMAaAB1AG4AawBlAGQAVAByAGEAbgBzAGYAZQByACIAOgBmAGEAbABzAGUALAAiAG0AXwBSAGUAZABpAHIAZQBjAHQATABpAG0AaQB0ACIAOgAtADEALAAiAG0AXwBSAGUAdAByAHkAQwBvAHUAbgB0ACIAOgAwACwAIgBtAF8AQgB1AG4AZABsAGUATgBhAG0AZQAiADoAIgBlADgAZgBlADQAZQA2AGEANgBiADUAOQAzADUAZAA0AGEAOAAxADIANgAxADgAZQA5ADAAMQA2ADgAOABiAGQAIgAsACIAbQBfAEEAcwBzAGUAdABMAG8AYQBkAE0AbwBkAGUAIgA6ADAALAAiAG0AXwBCAHUAbgBkAGwAZQBTAGkAegBlACIAOgAxADUAMAA1ADUAMgA1ACwAIgBtAF8AVQBzAGUAQwByAGMARgBvAHIAQwBhAGMAaABlAGQAQgB1AG4AZABsAGUAcwAiADoAdAByAHUAZQAsACIAbQBfAFUAcwBlAFUAVwBSAEYAbwByAEwAbwBjAGEAbABCAHUAbgBkAGwAZQBzACIAOgBmAGEAbABzAGUALAAiAG0AXwBDAGwAZQBhAHIATwB0AGgAZQByAEMAYQBjAGgAZQBkAFYAZQByAHMAaQBvAG4AcwBXAGgAZQBuAEwAbwBhAGQAZQBkACIAOgBmAGEAbABzAGUAfQA=",
+	"m_resourceTypes": [
+		{
+			"m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"
+		},
+		{
+			"m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.GameObject"
+		},
+		{
+			"m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.ComputeShader"
+		},
+		{
+			"m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.Shader"
+		},
+		{
+			"m_AssemblyName": "Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.Rendering.UI.DebugUIPrefabBundle"
+		},
+		{
+			"m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.RectOffset"
+		},
+		{
+			"m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.UI.MaskableGraphic+CullStateChangedEvent"
+		},
+		{
+			"m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.Events.PersistentCallGroup"
+		},
+		{
+			"m_AssemblyName": "UnityEngine.TextCoreFontEngineModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.TextCore.FaceInfo"
+		},
+		{
+			"m_AssemblyName": "UnityEngine.TextCoreFontEngineModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.TextCore.Glyph"
+		},
+		{
+			"m_AssemblyName": "UnityEngine.TextCoreFontEngineModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.TextCore.GlyphMetrics"
+		},
+		{
+			"m_AssemblyName": "UnityEngine.TextCoreFontEngineModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.TextCore.GlyphRect"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.TMP_Character"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.FaceInfo_Legacy"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.KerningTable"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.TMP_FontFeatureTable"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.TMP_GlyphPairAdjustmentRecord"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.TMP_GlyphAdjustmentRecord"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.TMP_GlyphValueRecord"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.FontAssetCreationSettings"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.TMP_FontWeightPair"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.TMP_FontAsset"
+		},
+		{
+			"m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.Material"
+		},
+		{
+			"m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.Texture2D"
+		},
+		{
+			"m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+		},
+		{
+			"m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "UnityEngine.TextAsset"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.TMP_SpriteCharacter"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.TMP_SpriteGlyph"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.TMP_Sprite"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.TMP_SpriteAsset"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.TMP_Style"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.TMP_StyleSheet"
+		},
+		{
+			"m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+			"m_ClassName": "TMPro.TMP_Settings"
+		}
+	],
+	"m_InternalIdPrefixes": []
+}
